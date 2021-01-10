@@ -1,2 +1,2 @@
-a = 3
-kogda_rezi = 3
+a = 4
+kogda_rezi = 4
